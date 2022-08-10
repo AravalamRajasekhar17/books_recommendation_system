@@ -1,0 +1,1059 @@
+S.NO,Submitted Time,1. Name,2. select book,3. Number of quantity
+1,02-08-2022,Manasa,"Head-First Python,2nd edition",2
+2,03-08-2022,Rajasekhar,Python Crash course by Eric Matthes,1
+3,03-08-2022,Rajasekhar,"Head-First Python,2nd edition",1
+4,03-08-2022,Manasa,Data structure and algorithm through python,1
+5,03-08-2022,Hari Prakash,python programming:using problem solving approach,1
+6,03-08-2022,Hari Prakash,Data structure and algorithm through python,1
+7,03-08-2022,Manogna,Python Crash course by Eric Matthes,1
+8,03-08-2022,Bharathi,"Head-First Python,2nd edition",1
+9,03-08-2022,Bharathi,"Invent your own computer games with python,4th edition",1
+10,03-08-2022,Manogna,"Invent your own computer games with python,4th edition",1
+11,03-08-2022,Venkat,python programming:using problem solving approach,2
+12,03-08-2022,Veerapavan,"Head-First Python,2nd edition",1
+13,03-08-2022,Pavan kumar,Data structure and algorithm through python,1
+14,03-08-2022,Sudheer,"Head-First Python,2nd edition",1
+15,03-08-2022,Chandrasena,"Head-First Python,2nd edition",1
+16,03-08-2022,Mohan,Think python:how to think like a computer scientist,1
+17,03-08-2022,Mohan,"Invent your own computer games with python,4th edition",1
+18,03-08-2022,Sree krishna,"HTML,CSS,Javascript web publishing",1
+19,03-08-2022,Vijay,Data structure and algorithm through python,1
+20,03-08-2022,Ram,Python Crash course by Eric Matthes,1
+21,03-08-2022,Ram,python programming:using problem solving approach,1
+22,03-08-2022,Manaswi,"Head-First Python,2nd edition",1
+23,03-08-2022,Manaswi,Machine learning with python,1
+24,03-08-2022,Manogna,Machine learning for beginners,1
+25,03-08-2022,Sneha,Python Crash course by Eric Matthes,1
+26,03-08-2022,Sneha,Machine learning with python,2
+27,03-08-2022,Keerthy,Think python:how to think like a computer scientist,1
+28,03-08-2022,Keerthy,"Invent your own computer games with python,4th edition",1
+29,03-08-2022,Suresh,"Invent your own computer games with python,4th edition",1
+30,03-08-2022,Saikiran,Python Crash course by Eric Matthes,1
+31,03-08-2022,Saikiran,python programming:using problem solving approach,1
+32,03-08-2022,Suman,python programming:using problem solving approach,1
+33,03-08-2022,Sumanth,Python Crash course by Eric Matthes,1
+34,03-08-2022,Monish,Python Crash course by Eric Matthes,1
+35,03-08-2022,Monish,python programming:using problem solving approach,1
+36,03-08-2022,Manish,"Head-First Python,2nd edition",1
+37,03-08-2022,Manish,"Head-First Python,2nd edition",1
+38,03-08-2022,Pandey,"Head-First Python,2nd edition",1
+39,03-08-2022,Pandey,Data structure and algorithm through python,1
+40,03-08-2022,Gayathri,Python Crash course by Eric Matthes,1
+41,03-08-2022,Gayathri,python programming:using problem solving approach,1
+42,03-08-2022,Sushmitha,Python Crash course by Eric Matthes,1
+43,03-08-2022,Sushmitha,Python Crash course by Eric Matthes,1
+44,03-08-2022,Sushmitha,Data structure and algorithm through python,1
+45,03-08-2022,Sabitha,Python Crash course by Eric Matthes,1
+46,03-08-2022,Dinesh,Python Crash course by Eric Matthes,1
+47,03-08-2022,Dinesh,python programming:using problem solving approach,1
+48,03-08-2022,Bharadwaj,Python Crash course by Eric Matthes,1
+49,03-08-2022,Bharadwaj,python programming:using problem solving approach,1
+50,03-08-2022,Deva,Python Crash course by Eric Matthes,1
+51,03-08-2022,Deva,Data structure and algorithm through python,1
+52,03-08-2022,Dilip,"Invent your own computer games with python,4th edition",1
+53,03-08-2022,Dilip,Think python:how to think like a computer scientist,1
+54,03-08-2022,Yogesh,"Head-First Python,2nd edition",1
+55,03-08-2022,Rithika,Data science from scratch,1
+56,03-08-2022,Rithika,Data science with python,1
+57,03-08-2022,Sharma,"Head-First Python,2nd edition",1
+58,03-08-2022,Sharma,Machine learning with python,1
+59,03-08-2022,Hemasundar,"Head-First Python,2nd edition",1
+60,03-08-2022,D Rajasekhar,Data science from scratch,1
+61,03-08-2022,D Rajasekhar,Practical statistics for data scientist,1
+62,03-08-2022,Sri Vidya,Machine learning for beginners,1
+63,03-08-2022,Teja,Think python:how to think like a computer scientist,1
+64,03-08-2022,Teja,Data science with python,1
+65,03-08-2022,Teja,Data science from scratch,1
+66,03-08-2022,Gouse bhasa,Machine learning with python,1
+67,03-08-2022,Saqib,Practical statistics for data scientist,1
+68,03-08-2022,Sai Karthik,Data science for dummies,2
+69,03-08-2022,Gouse bhasa,Mastering machine learning algorithm,1
+70,03-08-2022,Saidivya,Hands on Machine Learning with scikit-learn,1
+71,03-08-2022,Yogibabu,Data science from scratch,1
+72,03-08-2022,Mahesh,Machine learning with python,1
+73,03-08-2022,Yogibabu,Hands on Machine Learning with scikit-learn,1
+74,03-08-2022,Mahesh,Practical statistics for data scientist,1
+75,03-08-2022,Bindumathi,"Head-First Python,2nd edition",1
+76,03-08-2022,Bindumathi,python programming:using problem solving approach,1
+77,03-08-2022,Uma,Python Crash course by Eric Matthes,1
+78,03-08-2022,Uma,Data structure and algorithm through python,1
+79,03-08-2022,Umamaheswar,Data science from scratch,1
+80,03-08-2022,Umamaheswar,Data science with python,1
+81,03-08-2022,Mahesh kumar,Think python:how to think like a computer scientist,1
+82,03-08-2022,Bhuvan,Data science from scratch,1
+83,03-08-2022,Bhuvan,Data science with python,1
+84,03-08-2022,Tejeswani,Data science for dummies,1
+85,03-08-2022,Tejeswani,Data science for dummies,1
+86,03-08-2022,Maruthi,Machine learning with python,1
+87,03-08-2022,Richik,Machine learning for beginners,1
+88,03-08-2022,Richik,Machine learning with python,1
+89,03-08-2022,Rashmika,python programming:using problem solving approach,1
+90,03-08-2022,Rashmika,Data structure and algorithm through python,1
+91,03-08-2022,Agarwal,Data structure and algorithm through python,1
+92,03-08-2022,Agarwal,"Head-First Python,2nd edition",1
+93,03-08-2022,Venkatvijay,Python Crash course by Eric Matthes,1
+94,03-08-2022,Venkatvijay,"Head-First Python,2nd edition",1
+95,03-08-2022,Venkatvijay,python programming:using problem solving approach,1
+96,03-08-2022,Parameswar,"Head-First Python,2nd edition",1
+97,03-08-2022,Parameswar,python programming:using problem solving approach,1
+98,03-08-2022,Sree krishna,"HTML,CSS,Javascript web publishing",1
+99,03-08-2022,Sree krishna,Reactjs for beginners ,1
+100,03-08-2022,Sree krishna,"The full stack developer,Chris Northwood",1
+101,03-08-2022,Sree krishna,"HTML,CSS,Javascript web publishing",1
+102,03-08-2022,Chalameswar,Data science for dummies,1
+103,03-08-2022,Tejasree,Mastering machine learning algorithm,1
+104,03-08-2022,Triveni,"Head-First Python,2nd edition",1
+105,03-08-2022,Triveni,Data structure and algorithm through python,1
+106,03-08-2022,Triveni,Data science with python,1
+107,03-08-2022,Kumar,Machine learning with python,1
+108,03-08-2022,Kumar,Mastering machine learning algorithm,1
+109,03-08-2022,Seshadri,"HTML5,CSS3,Javascript php-blackwood",1
+110,03-08-2022,Seshadri,"The full stack developer,Chris Northwood",1
+111,03-08-2022,Somesh,Data science with python,1
+112,03-08-2022,Somesh,Machine learning for beginners,1
+113,03-08-2022,Eeswari,Hands on Machine Learning with scikit-learn,1
+114,03-08-2022,Eeswari,Machine learning for beginners,1
+115,03-08-2022,Haribabu,Data science with python,1
+116,03-08-2022,Haribabu,The Data science handbook-Field cady,1
+117,03-08-2022,Adi lakshmi,python programming:using problem solving approach,1
+118,03-08-2022,Adi lakshmi,Data structure and algorithm through python,1
+119,03-08-2022,A Haribabu,Hands on Machine Learning with scikit-learn,1
+120,03-08-2022,A Haribabu,Machine learning for beginners,1
+121,03-08-2022,A Haribabu,Machine learning and deep learning,1
+122,03-08-2022,B Haribabu,Data science for dummies,1
+123,03-08-2022,B Haribabu,Data science from scratch,1
+124,03-08-2022,C Haribabu,Data science with python,1
+125,03-08-2022,Supradeep,"HTML5,CSS3,Javascript php-blackwood",1
+126,03-08-2022,Supradeep,App development using Java &XML,1
+127,03-08-2022,Rishi,"The frame work for web-development,angular",1
+128,03-08-2022,Rishi,Angular for beginners,1
+129,03-08-2022,Rishi kumar,App development using Java &XML,1
+130,03-08-2022,Rishi kumar,"The full stack developer,Chris Northwood",1
+131,03-08-2022,Mohith kumar,App development using Java &XML,1
+132,03-08-2022,Mohith kumar,"UX,UI design for beginners",1
+133,03-08-2022,Mohith kumar,"The full stack developer,Chris Northwood",1
+134,03-08-2022,Sushmithasen,"HTML,CSS,Javascript web publishing",1
+135,03-08-2022,Sushmithasen,live web server with Reactjs and firebase,1
+136,03-08-2022,Sushmithsen,live web server with Reactjs and firebase,1
+137,03-08-2022,Purnachandra,Backbone of webdevelopment-angular,1
+138,03-08-2022,Purnachandra,Angular for beginners,1
+139,03-08-2022,Sharaschandra,Reactjs for beginners ,1
+140,03-08-2022,Jagannadh,Practical statistics for data scientist,1
+141,03-08-2022,Jagannadh,The Data science handbook-Field cady,1
+142,03-08-2022,Jagannadh,Data science for dummies,1
+143,03-08-2022,Jagannadh,Hands on Machine Learning with scikit-learn,1
+144,03-08-2022,Trivikram,Think python:how to think like a computer scientist,1
+145,03-08-2022,Trivikram,"Invent your own computer games with python,4th edition",1
+146,03-08-2022,Vijaykumar naik,Machine learning for beginners,1
+147,03-08-2022,Vijaykumar naik,Machine learning and deep learning,1
+148,03-08-2022,Suguna,Machine learning with python,1
+149,03-08-2022,Suguna,Mastering machine learning algorithm,1
+150,03-08-2022,Rajani,Data science for dummies,1
+151,03-08-2022,Rajani,Data science from scratch,1
+152,03-08-2022,Rajani,Data science from scratch,1
+153,03-08-2022,Jashmitha,"UX,UI design for beginners",1
+154,03-08-2022,Jashmitha,"The frame work for web-development,angular",1
+155,03-08-2022,Sangeetha,"HTML5,CSS3,Javascript php-blackwood",1
+156,03-08-2022,Sangeetha,"HTML5,CSS3,Javascript php-blackwood",1
+157,03-08-2022,Geetha,"The full stack developer,Chris Northwood",1
+158,03-08-2022,Geetha,"HTML5,CSS3,Javascript php-blackwood",1
+159,03-08-2022,Poojabai,Think python:how to think like a computer scientist,1
+160,03-08-2022,Poojabai,"Invent your own computer games with python,4th edition",1
+161,03-08-2022,Likitha,Data science from scratch,1
+162,03-08-2022,Likitha,Data science with python,2
+163,03-08-2022,Lalitha,Hands on Machine Learning with scikit-learn,1
+164,03-08-2022,Lalitha,Machine learning for beginners,1
+165,03-08-2022,B Divyasree,Machine learning for beginners,1
+166,03-08-2022,B Divyasree,Hands on Machine Learning with scikit-learn,1
+167,03-08-2022,B Divyasree,Data structure and algorithm through python,1
+168,03-08-2022,C Divyasree,Data science from scratch,1
+169,03-08-2022,C Divyasree,Data science from scratch,1
+170,03-08-2022,C Divyasree,Data science for dummies,1
+171,03-08-2022,D Divyasree,"HTML5,CSS3,Javascript php-blackwood",1
+172,03-08-2022,D Divyasree,"The frame work for web-development,angular",1
+173,03-08-2022,D Divyasree,"UX,UI design for beginners",1
+174,03-08-2022,M Divyasree,App development using Java &XML,1
+175,03-08-2022,M Divyasree,Backbone of webdevelopment-angular,1
+176,03-08-2022,M Divyasree,App development using Java &XML,1
+177,03-08-2022,N Divyasree,"The frame work for web-development,angular",1
+178,03-08-2022,N Divyasree,Angular for beginners,1
+179,03-08-2022,O Divyasree,Angular for beginners,1
+180,03-08-2022,N Divyasree,Angular for beginners,1
+181,03-08-2022,N Divyasree,"Reactjs,the main pillar of web-development",1
+182,03-08-2022,P Divyasree,Angular for beginners,1
+183,03-08-2022,U Divyasree,"The frame work for web-development,angular",1
+184,03-08-2022,U Divyasree,Angular for beginners,1
+185,03-08-2022,P Divyasree,Angular for beginners,1
+186,03-08-2022,X Divyasree,Angular for beginners,1
+187,03-08-2022,X Divyasree,Angular for beginners,1
+188,03-08-2022,Y Divyasree,Angular for beginners,1
+189,03-08-2022,X Divyasree,Angular for beginners,1
+190,03-08-2022,Y Divyasree,Angular for beginners,1
+191,03-08-2022,Z Divyasree,"The frame work for web-development,angular",1
+192,03-08-2022,Z Divyasree,Angular for beginners,1
+193,03-08-2022,Z Divyasree,"The frame work for web-development,angular",1
+194,03-08-2022,Z Divyasree,Angular for beginners,1
+195,03-08-2022,V Divyasree,Angular for beginners,1
+196,03-08-2022,V Divyasree,Angular for beginners,1
+197,03-08-2022,V Divyasree,"Reactjs,the main pillar of web-development",1
+198,03-08-2022,F Divyasree,Angular for beginners,1
+199,03-08-2022,F Divyasree,Reactjs for beginners ,1
+200,03-08-2022,E Divyasreee,Angular for beginners,1
+201,03-08-2022,T Divyasree,Angular for beginners,1
+202,03-08-2022,V Divyasree,Angular for beginners,1
+203,03-08-2022,G Divyasree,live web server with Reactjs and firebase,2
+204,03-08-2022,Y Divyasri,"Reactjs,the main pillar of web-development",1
+205,03-08-2022,Y Divyasri,live web server with Reactjs and firebase,1
+206,03-08-2022,Z Divyasri,Angular for beginners,1
+207,03-08-2022,I Divya,live web server with Reactjs and firebase,1
+208,03-08-2022,I Divya,"The frame work for web-development,angular",1
+209,03-08-2022,A Hari,Reactjs for beginners ,1
+210,03-08-2022,A Hari,live web server with Reactjs and firebase,1
+211,03-08-2022,A Hari,"Reactjs,the main pillar of web-development",1
+212,03-08-2022,A Hari,Reactjs for beginners ,1
+213,03-08-2022,B Hari,"Reactjs,the main pillar of web-development",1
+214,03-08-2022,B Hari,"Reactjs,the main pillar of web-development",1
+215,03-08-2022,B Hari,"Reactjs,the main pillar of web-development",1
+216,03-08-2022,C Hari,Reactjs for beginners ,1
+217,03-08-2022,C Hari,live web server with Reactjs and firebase,1
+218,03-08-2022,Parthasarathy,live web server with Reactjs and firebase,1
+219,03-08-2022,Parthasarathy,"Reactjs,the main pillar of web-development",1
+220,03-08-2022,Parthasarathy,"Reactjs,the main pillar of web-development",1
+221,03-08-2022,Parthasarathy,Reactjs for beginners ,1
+222,03-08-2022,Yamini,Angular for beginners,1
+223,03-08-2022,Yamini,Reactjs for beginners ,1
+224,03-08-2022,Yamini,Reactjs for beginners ,1
+225,03-08-2022,Yamini,Angular for beginners,1
+226,03-08-2022,Yamini,Angular for beginners,1
+227,03-08-2022,Bhuvaneswari,Reactjs for beginners ,1
+228,03-08-2022,Bhuvaneswari,Reactjs for beginners ,1
+229,03-08-2022,Bhuvaneswari,"Reactjs,the main pillar of web-development",1
+230,03-08-2022,Bhuvaneswari,"The frame work for web-development,angular",1
+231,03-08-2022,Manogna sree,"Reactjs,the main pillar of web-development",1
+232,03-08-2022,Manogna sree,Angular for beginners,1
+233,03-08-2022,Manogna sri,Reactjs for beginners ,1
+234,03-08-2022,Manogna sri,Angular for beginners,1
+235,03-08-2022,Manaswi M,"The frame work for web-development,angular",1
+236,03-08-2022,Manaswi,Reactjs for beginners ,1
+237,03-08-2022,Manoj,Reactjs for beginners ,1
+238,03-08-2022,Manoj,"Reactjs,the main pillar of web-development",1
+239,03-08-2022,Manoj,Angular for beginners,1
+240,03-08-2022,Muni,live web server with Reactjs and firebase,1
+241,03-08-2022,Muni,live web server with Reactjs and firebase,1
+242,03-08-2022,Munesh,Angular for beginners,1
+243,03-08-2022,Mukesh kumar,"Reactjs,the main pillar of web-development",1
+244,03-08-2022,Mukesh kumar,"The frame work for web-development,angular",1
+245,03-08-2022,Munisai,live web server with Reactjs and firebase,1
+246,03-08-2022,Munisai,"The frame work for web-development,angular",1
+247,03-08-2022,Lokesh,live web server with Reactjs and firebase,1
+248,03-08-2022,Lokesh,"Reactjs,the main pillar of web-development",1
+249,03-08-2022,Lokesh,live web server with Reactjs and firebase,1
+250,03-08-2022,Lokesh kumar,Angular for beginners,1
+251,03-08-2022,Mahendra,Data science with python,1
+252,03-08-2022,Mahendra,Data science for dummies,2
+253,03-08-2022,S Mahendra,Data science from scratch,1
+254,03-08-2022,S Mahendra,Data science with python,1
+255,03-08-2022,S Mahendra,Practical statistics for data scientist,1
+256,03-08-2022,M Mahendra,Data science from scratch,1
+257,03-08-2022,M Mahendra,Data science with python,1
+258,03-08-2022,N Mahendra,Data science with python,1
+259,03-08-2022,N Mahendra,The Data science handbook-Field cady,1
+260,03-08-2022,G Mahendra,Data science with python,1
+261,03-08-2022,H Mahendra,Data science for dummies,1
+262,03-08-2022,H Mahendra,Data science with python,1
+263,03-08-2022,B Mahendra,Data science for dummies,1
+264,03-08-2022,Y Mahendra,Data science with python,1
+265,03-08-2022,Y Mahendra,Practical statistics for data scientist,1
+266,03-08-2022,1,Practical statistics for data scientist,1
+267,03-08-2022,U Mahendra,Data science for dummies,1
+268,03-08-2022,I Mahendra,The Data science handbook-Field cady,1
+269,03-08-2022,T Mahendra,Data science for dummies,1
+270,03-08-2022,T Mahendra,The Data science handbook-Field cady,1
+271,03-08-2022,P Mahendra,Data science for dummies,1
+272,03-08-2022,D Mahendra,Data science for dummies,1
+273,03-08-2022,P Mahendra,Data science from scratch,1
+274,03-08-2022,O Mahendra,Data science with python,1
+275,03-08-2022,Nagasai,Data science for dummies,1
+276,03-08-2022,Nagasai,Data science for dummies,1
+277,03-08-2022,Nagasi P,Data science with python,1
+278,03-08-2022,Nagasai P,Data science from scratch,1
+279,03-08-2022,Nagasai P,Data science with python,1
+280,03-08-2022,Nagasai M,Data science for dummies,1
+281,03-08-2022,Nagasai M,Data science with python,1
+282,03-08-2022,Nagasai N,The Data science handbook-Field cady,2
+283,03-08-2022,Nagasai J,Data science with python,1
+284,03-08-2022,Nagasai M,Data science for dummies,1
+285,03-08-2022,A Nagasai,The Data science handbook-Field cady,1
+286,03-08-2022,A Nagasai,Data science for dummies,1
+287,03-08-2022,B Nagasai,Data science for dummies,1
+288,03-08-2022,B Nagasai,Data science with python,1
+289,03-08-2022,C Nagasai,Data science from scratch,1
+290,03-08-2022,C Nagasai,Practical statistics for data scientist,1
+291,03-08-2022,D Nagasai,The Data science handbook-Field cady,1
+292,03-08-2022,D Nagasai,Data science from scratch,1
+293,03-08-2022,A Mahadev,Data science from scratch,1
+294,03-08-2022,B Mahadev,The Data science handbook-Field cady,1
+295,03-08-2022,C Nagasai,Practical statistics for data scientist,1
+296,03-08-2022,D Mahadev,Data science with python,1
+297,03-08-2022,E Mahadev,Data science from scratch,1
+298,03-08-2022,F Mahadev,Practical statistics for data scientist,1
+299,03-08-2022,G Mahadev,Data science with python,1
+300,03-08-2022,G Mahadev,Practical statistics for data scientist,1
+301,03-08-2022,H Mahadev,The Data science handbook-Field cady,1
+302,03-08-2022,I Mahadev,Practical statistics for data scientist,1
+303,03-08-2022,J Mahadev,Data science for dummies,1
+304,03-08-2022,A Ravi,Data science with python,1
+305,03-08-2022,A Ravi,Data science for dummies,1
+306,03-08-2022,B Ravi,Practical statistics for data scientist,1
+307,03-08-2022,C Ravi,Practical statistics for data scientist,1
+308,03-08-2022,D Ravi,The Data science handbook-Field cady,1
+309,03-08-2022,E Ravi,Data science with python,1
+310,03-08-2022,E Ravi,Practical statistics for data scientist,1
+311,03-08-2022,G Ravi,Practical statistics for data scientist,1
+312,03-08-2022,G Ravi,Practical statistics for data scientist,1
+313,03-08-2022,H Ravi,Data science with python,1
+314,03-08-2022,H Ravi,Data science with python,1
+315,03-08-2022,J Ravi,Data science with python,1
+316,03-08-2022,L Ravi,Data science for dummies,1
+317,03-08-2022,M Ravi,Practical statistics for data scientist,1
+318,03-08-2022,K Ravi,Practical statistics for data scientist,1
+319,03-08-2022,P Ravi,Data science with python,1
+320,03-08-2022,M Ravi,Data science for dummies,1
+321,03-08-2022,S Ravi,The Data science handbook-Field cady,1
+322,03-08-2022,T Ravi,The Data science handbook-Field cady,1
+323,03-08-2022,T Ravi,Data science for dummies,1
+324,03-08-2022,A Ravi kumar,Data science from scratch,1
+325,03-08-2022,A Ravi kumar,Data science for dummies,1
+326,03-08-2022,B Ravi kumar,Data science with python,1
+327,03-08-2022,L Ravi kumar,Data science with python,1
+328,03-08-2022,L Ravi kumar,Data science for dummies,1
+329,03-08-2022,M Ravi kumar,Practical statistics for data scientist,1
+330,03-08-2022,N Ravi kumar,Data science with python,1
+331,03-08-2022,N Ravi kumar,Data science with python,1
+332,03-08-2022,P Ravi kumar,Data structure and algorithm through python,1
+333,03-08-2022,G Ravi kumar,Data science with python,1
+334,03-08-2022,U Ravi kumar,Data science for dummies,1
+335,03-08-2022,N Ravi kumar,Data science from scratch,1
+336,03-08-2022,M Ravi kumar,Data science with python,1
+337,03-08-2022,K Ravindra,Data science for dummies,1
+338,03-08-2022,K Ravindra,Data science from scratch,1
+339,03-08-2022,A Ravindra,Data science with python,1
+340,03-08-2022,A Ravindra,Practical statistics for data scientist,1
+341,03-08-2022,G Ravindra,Data science for dummies,1
+342,03-08-2022,J Ravindra,Data science from scratch,1
+343,03-08-2022,M Ravindra,The Data science handbook-Field cady,1
+344,03-08-2022,N Ravindra,Practical statistics for data scientist,1
+345,03-08-2022,P Ravindra,Practical statistics for data scientist,1
+346,03-08-2022,U Ravindra,The Data science handbook-Field cady,1
+347,03-08-2022,U Ravindra,Data science with python,1
+348,03-08-2022,U Ravindra,Data science for dummies,1
+349,03-08-2022,M Ravindra,Data science with python,1
+350,03-08-2022,P Ravindra,Data science from scratch,1
+351,03-08-2022,T Ravindra,Data science with python,1
+352,03-08-2022,R Ravindra,The Data science handbook-Field cady,1
+353,03-08-2022,H Ravindra,The Data science handbook-Field cady,1
+354,03-08-2022,O Ravindra,Practical statistics for data scientist,1
+355,03-08-2022,M Ravindra,Data science for dummies,1
+356,03-08-2022,N Ravindra,The Data science handbook-Field cady,1
+357,03-08-2022,A Mani,Data science from scratch,1
+358,03-08-2022,A Mani,Practical statistics for data scientist,1
+359,03-08-2022,B Mani,Data science for dummies,1
+360,03-08-2022,C Mani,Practical statistics for data scientist,1
+361,03-08-2022,D Mani,Data science from scratch,1
+362,03-08-2022,H Mani,Data science for dummies,1
+363,03-08-2022,H Mani,Data science with python,1
+364,03-08-2022,G Mani,Data science from scratch,1
+365,03-08-2022,G Mani,Data science with python,1
+366,03-08-2022,H Mani,Data science with python,1
+367,03-08-2022,P Mani,Practical statistics for data scientist,1
+368,03-08-2022,P Mani,Data science from scratch,1
+369,03-08-2022,T Mani,Data science for dummies,1
+370,03-08-2022,V Mani,Data science from scratch,1
+371,03-08-2022,V Mani,The Data science handbook-Field cady,1
+372,03-08-2022,V Mani,Data science for dummies,1
+373,03-08-2022,R Mani,The Data science handbook-Field cady,1
+374,03-08-2022,R Mani,Data science for dummies,1
+375,03-08-2022,I Mani,The Data science handbook-Field cady,1
+376,03-08-2022,I Mani,Practical statistics for data scientist,1
+377,03-08-2022,J Mani,Data science from scratch,1
+378,03-08-2022,J Mani,Data science with python,1
+379,03-08-2022,A Ratnakumar,Data science from scratch,1
+380,03-08-2022,A Ratnakumar,Data science from scratch,1
+381,03-08-2022,B Ratnakumar,Data science with python,1
+382,03-08-2022,B Ratnakumar,Practical statistics for data scientist,1
+383,03-08-2022,B Ratnakumar,The Data science handbook-Field cady,1
+384,03-08-2022,B Ratnakumar,Practical statistics for data scientist,1
+385,03-08-2022,C Ratnakumar,Data science with python,1
+386,03-08-2022,C Ratnakumar,Practical statistics for data scientist,1
+387,03-08-2022,D Ratnakumar,Practical statistics for data scientist,1
+388,03-08-2022,D Ratnakumar,Data science with python,1
+389,03-08-2022,G Ratnakumar,The Data science handbook-Field cady,1
+390,03-08-2022,H Ratnakumar,Data science from scratch,1
+391,03-08-2022,H Ratnakumar,Data science from scratch,1
+392,03-08-2022,G Ratnakumar,Data science with python,1
+393,03-08-2022,G Ratnakumar,Practical statistics for data scientist,1
+394,03-08-2022,H Ratnakumar,Data science for dummies,1
+395,03-08-2022,T Ratnakumar,Practical statistics for data scientist,1
+396,03-08-2022,T Ratnakumar,Data science with python,1
+397,03-08-2022,M Ratnakumar,Practical statistics for data scientist,1
+398,03-08-2022,M Ratnakumar,Data science for dummies,1
+399,03-08-2022,N Ratnakumar,Data science from scratch,1
+400,03-08-2022,G Ratnakumar,Data science for dummies,1
+401,03-08-2022,G Ratnakumar,Data science for dummies,1
+402,03-08-2022,A Surya,Data science from scratch,1
+403,03-08-2022,A Surya,Practical statistics for data scientist,1
+404,03-08-2022,B Surya,Practical statistics for data scientist,1
+405,03-08-2022,B Surya,Data science for dummies,1
+406,03-08-2022,B Surya,Practical statistics for data scientist,1
+407,03-08-2022,C Surya,Data science for dummies,1
+408,03-08-2022,S Sivakumar,Data science for dummies,1
+409,03-08-2022,S Sivakumar,Data science with python,1
+410,03-08-2022,G Surya,The Data science handbook-Field cady,1
+411,03-08-2022,G Surya,Data science for dummies,1
+412,03-08-2022,G Surya,Practical statistics for data scientist,1
+413,03-08-2022,J Surya,Data science from scratch,1
+414,03-08-2022,J Surya,The Data science handbook-Field cady,1
+415,03-08-2022,L Surya,Data science for dummies,1
+416,03-08-2022,L Surya,Practical statistics for data scientist,1
+417,03-08-2022,L Surya,Data science with python,1
+418,03-08-2022,L Surya,The Data science handbook-Field cady,1
+419,03-08-2022,L Surya,The Data science handbook-Field cady,1
+420,03-08-2022,M Surya,Data science for dummies,1
+421,03-08-2022,N Surya,Practical statistics for data scientist,1
+422,03-08-2022,N Surya,Data science for dummies,1
+423,03-08-2022,G Surya,Data science from scratch,1
+424,03-08-2022,U Surya,The Data science handbook-Field cady,1
+425,03-08-2022,G Surya,Practical statistics for data scientist,1
+426,03-08-2022,H Surya,The Data science handbook-Field cady,1
+427,03-08-2022,H Surya,Practical statistics for data scientist,1
+428,03-08-2022,M Surya,Practical statistics for data scientist,1
+429,03-08-2022,M Surya,Data science for dummies,1
+430,03-08-2022,N Surya,Data science for dummies,1
+431,03-08-2022,P Surya,Data science for dummies,1
+432,03-08-2022,P Surya,Data science with python,1
+433,03-08-2022,A Sivakumar,The Data science handbook-Field cady,1
+434,03-08-2022,B Sivakumar,The Data science handbook-Field cady,1
+435,03-08-2022,B Sivakumar,Data science with python,1
+436,03-08-2022,C Sivakumar,Data science from scratch,1
+437,03-08-2022,C Sivakumar,The Data science handbook-Field cady,1
+438,03-08-2022,D Sivakumar,Data science with python,1
+439,03-08-2022,D Sivakumar,Data science for dummies,1
+440,03-08-2022,G Sivakumar,Data science with python,1
+441,03-08-2022,G Sivakumar,Data science for dummies,1
+442,03-08-2022,H Sivakumar,The Data science handbook-Field cady,1
+443,03-08-2022,M Sivakumar,Data science from scratch,1
+444,03-08-2022,T Sivakumar,Data science from scratch,1
+445,03-08-2022,H Sivakumar,Practical statistics for data scientist,1
+446,03-08-2022,H Sivakumar,Data science for dummies,1
+447,03-08-2022,M Sivakumar,Practical statistics for data scientist,1
+448,03-08-2022,N Sivakumar,Practical statistics for data scientist,1
+449,03-08-2022,D Sivakumar,Data science for dummies,1
+450,03-08-2022,A Ranaprathap,Data science with python,1
+451,03-08-2022,A Ranaprathap,Practical statistics for data scientist,1
+452,03-08-2022,B Ranaprathap,Data science for dummies,1
+453,03-08-2022,B Ranaprathap,Data science with python,1
+454,03-08-2022,C Ranaprathap,Data science with python,1
+455,03-08-2022,D Ranaprathap,The Data science handbook-Field cady,1
+456,03-08-2022,D Ranaprathap,The Data science handbook-Field cady,1
+457,03-08-2022,G Ranaprathap,Practical statistics for data scientist,1
+458,03-08-2022,G Ranaprathap,The Data science handbook-Field cady,1
+459,03-08-2022,G Ranaprathap,Data science with python,1
+460,03-08-2022,H Ranaprathap,Data science for dummies,1
+461,03-08-2022,I Ranaprathap,Data science for dummies,1
+462,03-08-2022,J Ranaprathap,Data science from scratch,1
+463,03-08-2022,J Ranaprathap,The Data science handbook-Field cady,1
+464,03-08-2022,J Ranaprathap,Practical statistics for data scientist,1
+465,03-08-2022,K Ranaprathap,Data science from scratch,1
+466,03-08-2022,K Ranaprathap,The Data science handbook-Field cady,1
+467,03-08-2022,M Ranaprathap,Data science for dummies,1
+468,03-08-2022,M Ranaprathap,Data science for dummies,1
+469,03-08-2022,N Ranaprathap,The Data science handbook-Field cady,1
+470,03-08-2022,N Ranaprathap,The Data science handbook-Field cady,1
+471,03-08-2022,P Ranaprathap,Data science for dummies,1
+472,03-08-2022,P Ranaprathap,The Data science handbook-Field cady,1
+473,03-08-2022,P Ranaprathap,Data science for dummies,1
+474,03-08-2022,M Ranaprathap,Data science with python,1
+475,03-08-2022,M Ranaprthap Reddy,Data science from scratch,1
+476,03-08-2022,M Ranaprathap Reddy,The Data science handbook-Field cady,1
+477,03-08-2022,M Ranaprthap Reddy,Data science with python,1
+478,03-08-2022,J Ranaprathap Reddy,Practical statistics for data scientist,1
+479,03-08-2022,J Ranaprathap Reddy,Data science with python,1
+480,03-08-2022,A RanaPrathap Reddy,Data science with python,1
+481,03-08-2022,A RanaPrathap Reddy,Practical statistics for data scientist,1
+482,03-08-2022,B Ranaprathap Reddy,Practical statistics for data scientist,1
+483,03-08-2022,B Ranaprathap Reddy,Data science for dummies,1
+484,03-08-2022,B Ranaprthap Reddy,Data science with python,1
+485,03-08-2022,B Ranaprathap Reddy,Data science with python,1
+486,03-08-2022,A Munisai,Data science from scratch,1
+487,03-08-2022,B Munisai,The Data science handbook-Field cady,1
+488,03-08-2022,B Munisai,Practical statistics for data scientist,1
+489,03-08-2022,C Munisai,Data science with python,1
+490,03-08-2022,C Munisai,Data science for dummies,1
+491,03-08-2022,D Munisai,Data science with python,1
+492,03-08-2022,D Munisai,Data science for dummies,1
+493,03-08-2022,G Munisai,Data science for dummies,1
+494,03-08-2022,G Munisai,Data science for dummies,1
+495,03-08-2022,M Munisai,Data science from scratch,1
+496,03-08-2022,K Munisai,Data science for dummies,1
+497,03-08-2022,G Munisai,Data science with python,1
+498,03-08-2022,K Munisai,Practical statistics for data scientist,1
+499,03-08-2022,A Nithish,Practical statistics for data scientist,1
+500,03-08-2022,A Nithish,The Data science handbook-Field cady,1
+501,03-08-2022,B Nithish,Data science for dummies,1
+502,03-08-2022,B Nithish,Data science from scratch,1
+503,03-08-2022,B Nithish,Data science for dummies,1
+504,03-08-2022,C Nithish,Data science with python,1
+505,03-08-2022,A Dileep,Machine learning for beginners,1
+506,03-08-2022,A Dileep,Mastering machine learning algorithm,1
+507,03-08-2022,B Dileep,Machine learning with python,1
+508,03-08-2022,B Dileep,Mastering machine learning algorithm,1
+509,03-08-2022,C Dileep,Machine learning and deep learning,1
+510,03-08-2022,C Dileep,Machine learning for beginners,1
+511,03-08-2022,D Dileep,Hands on Machine Learning with scikit-learn,1
+512,03-08-2022,D Dileep,Mastering machine learning algorithm,1
+513,03-08-2022,E Dileep kumar,Machine learning for beginners,1
+514,03-08-2022,E Dileep kumar,Mastering machine learning algorithm,1
+515,03-08-2022,Jayasurya A,Mastering machine learning algorithm,1
+516,03-08-2022,B Jayasurya,Machine learning for beginners,1
+517,03-08-2022,B Jayasurya,Machine learning and deep learning,1
+518,03-08-2022,Jayasurya A,Machine learning with python,1
+519,03-08-2022,Jayasurya C,Mastering machine learning algorithm,1
+520,03-08-2022,D Jayasurya,Machine learning for beginners,1
+521,03-08-2022,D Jayasurya,Machine learning for beginners,1
+522,03-08-2022,E Jayasurya,Hands on Machine Learning with scikit-learn,1
+523,03-08-2022,E Jayasurya,Mastering machine learning algorithm,1
+524,03-08-2022,D Jayasurya,Machine learning with python,1
+525,03-08-2022,G Jayasurya,Machine learning with python,1
+526,03-08-2022,G Jayasurya,Machine learning for beginners,1
+527,03-08-2022,J Jayasurya,Mastering machine learning algorithm,1
+528,03-08-2022,P Jayasurya,Machine learning with python,1
+529,03-08-2022,U Jayasurya,Machine learning for beginners,1
+530,03-08-2022,U Jayasurya,Mastering machine learning algorithm,1
+531,03-08-2022,M Jayasurya,Machine learning with python,1
+532,03-08-2022,N Jayasurya,Machine learning for beginners,1
+533,03-08-2022,P Jayasurya,Hands on Machine Learning with scikit-learn,1
+534,03-08-2022,L Jayasurya,Machine learning for beginners,1
+535,03-08-2022,P Jayasurya,Machine learning and deep learning,1
+536,03-08-2022,V Jayasurya,Machine learning with python,1
+537,03-08-2022,A Hemanth,Mastering machine learning algorithm,1
+538,03-08-2022,A Hemanth,Data science with python,1
+539,03-08-2022,B Hemanth,Machine learning for beginners,1
+540,03-08-2022,P Hemanth,Machine learning with python,1
+541,03-08-2022,P Hemanth,Machine learning for beginners,1
+542,03-08-2022,J Hemanth,Mastering machine learning algorithm,1
+543,03-08-2022,M Hemanth,Hands on Machine Learning with scikit-learn,1
+544,03-08-2022,P Hemanth,Machine learning and deep learning,1
+545,03-08-2022,R Hema kumar,Machine learning and deep learning,1
+546,03-08-2022,B Hema Kumar,Hands on Machine Learning with scikit-learn,1
+547,03-08-2022,T Hema Kumar,Machine learning with python,1
+548,03-08-2022,T Hema kumar,Machine learning for beginners,1
+549,03-08-2022,A Dinesh,Mastering machine learning algorithm,1
+550,03-08-2022,B Dinesh,Machine learning for beginners,1
+551,03-08-2022,C Dinesh,Machine learning and deep learning,1
+552,03-08-2022,N Dinesh,Mastering machine learning algorithm,1
+553,03-08-2022,JD Dinesh,Machine learning for beginners,1
+554,03-08-2022,JD Dinesh,Machine learning and deep learning,1
+555,03-08-2022,T Dinesh kumar,Machine learning with python,1
+556,03-08-2022,T Dinesh kumar,Machine learning for beginners,1
+557,03-08-2022,M Manish kumar,Machine learning for beginners,1
+558,03-08-2022,M Manish sai,Hands on Machine Learning with scikit-learn,1
+559,03-08-2022,N Nithish yadav,Machine learning and deep learning,1
+560,03-08-2022,N Nithish yadav,Machine learning with python,1
+561,03-08-2022,N Nithish yadav,Mastering machine learning algorithm,1
+562,03-08-2022,M Nithish yadav,Machine learning for beginners,1
+563,03-08-2022,M Nithish yadav,Machine learning with python,1
+564,03-08-2022,B Nithish yadav,Machine learning for beginners,1
+565,03-08-2022,B Nithish yadav,Machine learning for beginners,1
+566,03-08-2022,V Nithish yadav,Mastering machine learning algorithm,1
+567,03-08-2022,A Kalyan babu,Machine learning with python,1
+568,03-08-2022,A Kalyan babu,Machine learning for beginners,1
+569,03-08-2022,B Kalyan babu,Mastering machine learning algorithm,1
+570,03-08-2022,B Kalyan babu,Machine learning for beginners,1
+571,03-08-2022,A Kalyan babu,Mastering machine learning algorithm,2
+572,03-08-2022,C Kalyan babu,Mastering machine learning algorithm,1
+573,03-08-2022,G Kalyan babu,Machine learning and deep learning,1
+574,03-08-2022,K Kalyan babu,Mastering machine learning algorithm,1
+575,03-08-2022,K Kalyan babu,Machine learning and deep learning,1
+576,03-08-2022,M Manish yadav,Machine learning with python,1
+577,03-08-2022,D Sudheer kumar,Machine learning with python,1
+578,03-08-2022,T Kalyan babu,Mastering machine learning algorithm,1
+579,03-08-2022,T Kalyan babu,Machine learning for beginners,1
+580,03-08-2022,V Kalyan babu,Machine learning for beginners,1
+581,03-08-2022,R Kalyan babu,Machine learning for beginners,1
+582,03-08-2022,A Ramireddy,Machine learning with python,1
+583,03-08-2022,A Ramireddy,Machine learning and deep learning,1
+584,03-08-2022,B Ramireddy,Machine learning for beginners,1
+585,03-08-2022,B Ramireddy,Machine learning and deep learning,1
+586,03-08-2022,C Ramireddy,Machine learning with python,1
+587,03-08-2022,D Ramireddy,Mastering machine learning algorithm,1
+588,03-08-2022,D Ramireddy,Machine learning with python,1
+589,03-08-2022,G Ramireddy,Hands on Machine Learning with scikit-learn,1
+590,03-08-2022,G Ramireddy,Machine learning with python,1
+591,03-08-2022,T Ramireddy,Machine learning with python,1
+592,03-08-2022,L Ramireddy,Machine learning and deep learning,1
+593,03-08-2022,U Ramireddy,Mastering machine learning algorithm,1
+594,03-08-2022,P Ramireddy,Mastering machine learning algorithm,1
+595,03-08-2022,M Ramireddy,Machine learning for beginners,1
+596,03-08-2022,N Ramireddy,Machine learning for beginners,1
+597,03-08-2022,V Ramireddy,Machine learning for beginners,1
+598,03-08-2022,P Sukumar,Machine learning with python,1
+599,03-08-2022,P Sukumar,Data science with python,1
+600,03-08-2022,M Sukumar,Machine learning for beginners,1
+601,03-08-2022,Narendra,Data science with python,1
+602,03-08-2022,Narendra,Machine learning for beginners,1
+603,03-08-2022,A Nagendra,The Data science handbook-Field cady,1
+604,03-08-2022,A Nagendra,Machine learning with python,1
+605,03-08-2022,B Nagendra,Machine learning with python,1
+606,03-08-2022,B Nagendra,Data science from scratch,1
+607,03-08-2022,C Nagendra,Data science from scratch,1
+608,03-08-2022,C Nagendra,Machine learning for beginners,1
+609,03-08-2022,D Nagendra,Data science with python,1
+610,03-08-2022,D Nagendra,Machine learning for beginners,1
+611,03-08-2022,GH Nagendra,Data science with python,1
+612,03-08-2022,GH Nagendra,Machine learning for beginners,1
+613,03-08-2022,MK Sirish,Data science from scratch,1
+614,03-08-2022,MK Sirish,Machine learning with python,1
+615,03-08-2022,J Sirish,Data science for dummies,1
+616,03-08-2022,J Sirish,Machine learning for beginners,1
+617,03-08-2022,K Sirish,The Data science handbook-Field cady,1
+618,03-08-2022,K Sirish,Machine learning with python,1
+619,03-08-2022,K Sirish,Machine learning for beginners,1
+620,03-08-2022,D Sirish,Data science for dummies,1
+621,03-08-2022,M Kalyan ram,Hands on Machine Learning with scikit-learn,1
+622,03-08-2022,M Kalyan ram,The Data science handbook-Field cady,1
+623,03-08-2022,T Kalyan ram,Machine learning with python,1
+624,03-08-2022,T Kalyan ram,Data science for dummies,1
+625,03-08-2022,P Kalyan ram,The Data science handbook-Field cady,1
+626,03-08-2022,P Kalyan ram,Machine learning with python,1
+627,03-08-2022,D Sirish,Data science with python,1
+628,03-08-2022,D Sirish,Machine learning with python,1
+629,03-08-2022,T Sathish,Data science for dummies,1
+630,03-08-2022,T Sathish,Data science for dummies,1
+631,03-08-2022,A Sathish,Data science for dummies,1
+632,03-08-2022,A Sathish,Data science from scratch,1
+633,03-08-2022,J Sathish,Machine learning with python,1
+634,03-08-2022,U Sathish,Data science with python,1
+635,03-08-2022,I Sathish,Data science from scratch,1
+636,03-08-2022,J Sathish,Hands on Machine Learning with scikit-learn,1
+637,03-08-2022,Y Sathish kumar,Data science for dummies,1
+638,03-08-2022,Y Sathish kumar,Data science from scratch,1
+639,03-08-2022,T Sathish kumar,Data science from scratch,1
+640,03-08-2022,T Sathish kumar,Machine learning for beginners,1
+641,03-08-2022,R Sathish kumar,Data science for dummies,1
+642,03-08-2022,R Sathish kumar,Data science from scratch,1
+643,03-08-2022,M Sathish kumar,Data science from scratch,1
+644,03-08-2022,R Sai hithesh,Data science for dummies,1
+645,03-08-2022,R Sai hithesh,Machine learning with python,1
+646,03-08-2022,M Sai Hithesh,Machine learning for beginners,1
+647,03-08-2022,M Sai Hithesh,Data structure and algorithm through python,1
+648,03-08-2022,N Sai hithesh,Practical statistics for data scientist,1
+649,03-08-2022,R Chandra sekhar,Practical statistics for data scientist,1
+650,03-08-2022,J Chandra sekhar,Machine learning and deep learning,1
+651,03-08-2022,L lakshmi sai,Hands on Machine Learning with scikit-learn,1
+652,03-08-2022,A Sasidhar,"Reactjs,the main pillar of web-development",1
+653,03-08-2022,A Sasidhar,"The full stack developer,Chris Northwood",1
+654,03-08-2022,B Sasidhar,"HTML5,CSS3,Javascript php-blackwood",1
+655,03-08-2022,B Sasidhar,"The frame work for web-development,angular",1
+656,03-08-2022,C Sasidhar,"HTML5,CSS3,Javascript php-blackwood",1
+657,03-08-2022,D Sasidhar,live web server with Reactjs and firebase,1
+658,03-08-2022,D Sasidhar,"HTML5,CSS3,Javascript php-blackwood",1
+659,03-08-2022,G Sasidhar,"The full stack developer,Chris Northwood",1
+660,03-08-2022,G Sasidhar,"The full stack developer,Chris Northwood",1
+661,03-08-2022,G Sasidhar,"HTML5,CSS3,Javascript php-blackwood",1
+662,03-08-2022,A Umakanth,"The full stack developer,Chris Northwood",1
+663,03-08-2022,A Umakanth,"Reactjs,the main pillar of web-development",1
+664,03-08-2022,A Akhil,Reactjs for beginners ,1
+665,03-08-2022,A  Akhil,"Reactjs,the main pillar of web-development",1
+666,03-08-2022,A Akhil,Angular for beginners,1
+667,03-08-2022,A Akhil,Machine learning with python,1
+668,03-08-2022,B Akhil,"Reactjs,the main pillar of web-development",1
+669,03-08-2022,C Akhil,"HTML,CSS,Javascript web publishing",1
+670,03-08-2022,C Akhil,Angular for beginners,1
+671,03-08-2022,D Akhil,Angular for beginners,1
+672,03-08-2022,G Akhil,Reactjs for beginners ,1
+673,03-08-2022,G Akhil,"HTML5,CSS3,Javascript php-blackwood",1
+674,03-08-2022,H Akhil,"Reactjs,the main pillar of web-development",1
+675,03-08-2022,H Akhil,"The frame work for web-development,angular",1
+676,03-08-2022,K Akhil,Angular for beginners,1
+677,03-08-2022,K Akhil,Angular for beginners,1
+678,03-08-2022,S Akhil,Angular for beginners,1
+679,03-08-2022,P Akhil,"HTML5,CSS3,Javascript php-blackwood",1
+680,03-08-2022,M Akhil,"HTML5,CSS3,Javascript php-blackwood",1
+681,03-08-2022,N Akhil,Angular for beginners,1
+682,03-08-2022,N Akhil,"HTML5,CSS3,Javascript php-blackwood",1
+683,03-08-2022,C Akhil,"HTML5,CSS3,Javascript php-blackwood",1
+684,03-08-2022,T Akhil,"The frame work for web-development,angular",1
+685,03-08-2022,T Akhil,"HTML5,CSS3,Javascript php-blackwood",1
+686,03-08-2022,Y Akhil,"The full stack developer,Chris Northwood",1
+687,03-08-2022,Y Akhil,"HTML5,CSS3,Javascript php-blackwood",1
+688,03-08-2022,R Akhil,Backbone of webdevelopment-angular,1
+689,03-08-2022,O Akhil,"HTML5,CSS3,Javascript php-blackwood",1
+690,03-08-2022,O Akhil,"HTML5,CSS3,Javascript php-blackwood",1
+691,03-08-2022,I Akhil,"Reactjs,the main pillar of web-development",1
+692,03-08-2022,AL Akhil,"HTML5,CSS3,Javascript php-blackwood",1
+693,03-08-2022,T Akhil,"The full stack developer,Chris Northwood",1
+694,03-08-2022,R Akhil,"UX,UI design for beginners",1
+695,03-08-2022,R Ashwin,"UX,UI design for beginners",1
+696,03-08-2022,R Ashwin,"Reactjs,the main pillar of web-development",1
+697,03-08-2022,B Ashwin,"HTML5,CSS3,Javascript php-blackwood",1
+698,03-08-2022,B Ashwin,"The full stack developer,Chris Northwood",1
+699,03-08-2022,T Prasanna,"HTML5,CSS3,Javascript php-blackwood",1
+700,03-08-2022,T Prasanna,"HTML5,CSS3,Javascript php-blackwood",1
+701,03-08-2022,J Prasanna,"HTML5,CSS3,Javascript php-blackwood",1
+702,03-08-2022,T Prasanna,"UX,UI design for beginners",1
+703,03-08-2022,R Prasanna,Angular for beginners,1
+704,03-08-2022,R Prasanna,"Reactjs,the main pillar of web-development",1
+705,03-08-2022,G Prasanna,"HTML,CSS,Javascript web publishing",1
+706,03-08-2022,R Prasanna,"HTML5,CSS3,Javascript php-blackwood",1
+707,03-08-2022,T Prasanna kumar,"Reactjs,the main pillar of web-development",1
+708,03-08-2022,H Prasanna kumar,App development using Java &XML,1
+709,03-08-2022,O Prasanna kumar,Backbone of webdevelopment-angular,1
+710,03-08-2022,O Prasanna kumar,App development using Java &XML,1
+711,03-08-2022,O Prasanna kumar,live web server with Reactjs and firebase,1
+712,03-08-2022,R Rajasekhar,"Reactjs,the main pillar of web-development",1
+713,03-08-2022,RVS Rajasekhar,"HTML5,CSS3,Javascript php-blackwood",1
+714,03-08-2022,RS Rajasekhar,Angular for beginners,1
+715,03-08-2022,P Rajasekhar,Reactjs for beginners ,1
+716,03-08-2022,G Rajasekhar,App development using Java &XML,1
+717,03-08-2022,L Rajasekhar,"HTML5,CSS3,Javascript php-blackwood",1
+718,03-08-2022,U Rajasekhar,Angular for beginners,1
+719,03-08-2022,T Rajasekhar,"Reactjs,the main pillar of web-development",1
+720,03-08-2022,H Rajasekhar,Angular for beginners,1
+721,03-08-2022,B Rajasekhar,"HTML,CSS,Javascript web publishing",1
+722,03-08-2022,B Rajasekhar,"The full stack developer,Chris Northwood",1
+723,03-08-2022,C Rajasekhar,live web server with Reactjs and firebase,1
+724,03-08-2022,E Rajasekhar,"The frame work for web-development,angular",1
+725,03-08-2022,E Rajasekhar,"UX,UI design for beginners",1
+726,03-08-2022,G Rajasekhar,Reactjs for beginners ,1
+727,03-08-2022,G Rajasekhar,Angular for beginners,1
+728,03-08-2022,K Rajasekhar,"The frame work for web-development,angular",1
+729,03-08-2022,K Rajasekhar,Backbone of webdevelopment-angular,1
+730,03-08-2022,I Rajasekhar,Backbone of webdevelopment-angular,1
+731,03-08-2022,I Rajasekhar,Backbone of webdevelopment-angular,1
+732,03-08-2022,U Rajasekhar,Angular for beginners,1
+733,03-08-2022,V Rajasekhar,"Reactjs,the main pillar of web-development",1
+734,03-08-2022,P Rajasekhar,"UX,UI design for beginners",1
+735,03-08-2022,T Rajasekhar,"The frame work for web-development,angular",1
+736,03-08-2022,L Rajasekhar,live web server with Reactjs and firebase,1
+737,03-08-2022,M Rajasekhar,"HTML,CSS,Javascript web publishing",1
+738,03-08-2022,TM Rajasekhar,"The full stack developer,Chris Northwood",1
+739,03-08-2022,TR Rajasekhar,"Reactjs,the main pillar of web-development",1
+740,03-08-2022,HG Rajasekhar,"HTML,CSS,Javascript web publishing",1
+741,03-08-2022,HG Rajasekhar,"HTML5,CSS3,Javascript php-blackwood",1
+742,03-08-2022,TS Rajasekhar,"HTML5,CSS3,Javascript php-blackwood",1
+743,03-08-2022,M Rajasekhar,Backbone of webdevelopment-angular,1
+744,03-08-2022,M Rajasekhar,"UX,UI design for beginners",1
+745,03-08-2022,N Rajasekhar,live web server with Reactjs and firebase,1
+746,03-08-2022,N Rajasekhar,Angular for beginners,1
+747,03-08-2022,O Rajasekhar,"The full stack developer,Chris Northwood",1
+748,03-08-2022,O Rajasekhar,Angular for beginners,1
+749,03-08-2022,U Rajasekhar,"HTML5,CSS3,Javascript php-blackwood",1
+750,03-08-2022,U Rajasekhar,"HTML,CSS,Javascript web publishing",1
+751,03-08-2022,J Rajasekhar,"The frame work for web-development,angular",1
+752,03-08-2022,U Rajasekhar,Angular for beginners,1
+753,03-08-2022,V Rajasekhar,"HTML,CSS,Javascript web publishing",1
+754,03-08-2022,Y Rajasekhar,"The full stack developer,Chris Northwood",1
+755,03-08-2022,A Manasa,"The full stack developer,Chris Northwood",1
+756,03-08-2022,B Manasa,"The frame work for web-development,angular",1
+757,03-08-2022,A Manasa,"HTML5,CSS3,Javascript php-blackwood",1
+758,03-08-2022,B Manasa,live web server with Reactjs and firebase,1
+759,03-08-2022,I Manasa,"The full stack developer,Chris Northwood",1
+760,03-08-2022,P Manasa,Reactjs for beginners ,1
+761,03-08-2022,U Manasa,Reactjs for beginners ,1
+762,03-08-2022,T Manasa,"HTML5,CSS3,Javascript php-blackwood",1
+763,03-08-2022,T Manasa,"HTML5,CSS3,Javascript php-blackwood",1
+764,03-08-2022,M Manasa,"Reactjs,the main pillar of web-development",1
+765,03-08-2022,M Manasa,"HTML5,CSS3,Javascript php-blackwood",1
+766,03-08-2022,N Manasa,"The frame work for web-development,angular",1
+767,03-08-2022,N Manasa,"HTML5,CSS3,Javascript php-blackwood",1
+768,03-08-2022,N Manasa,Angular for beginners,1
+769,03-08-2022,T Manasa,Machine learning for beginners,1
+770,03-08-2022,T Manasa,"HTML,CSS,Javascript web publishing",1
+771,03-08-2022,K Manasa,"HTML5,CSS3,Javascript php-blackwood",1
+772,03-08-2022,K Manasa,"HTML,CSS,Javascript web publishing",1
+773,03-08-2022,Y Manasa,"The full stack developer,Chris Northwood",1
+774,03-08-2022,RT Manasa,"HTML5,CSS3,Javascript php-blackwood",1
+775,03-08-2022,RT Manasa,"HTML,CSS,Javascript web publishing",1
+776,03-08-2022,T R Manasa,"UX,UI design for beginners",1
+777,03-08-2022,T R Manasa,Backbone of webdevelopment-angular,1
+778,03-08-2022,Y Manasa kumari,live web server with Reactjs and firebase,1
+779,03-08-2022,Y Manasa kumari,"HTML5,CSS3,Javascript php-blackwood",1
+780,03-08-2022,Y Manasa kumari,"HTML,CSS,Javascript web publishing",1
+781,03-08-2022,A Sudha,"HTML5,CSS3,Javascript php-blackwood",1
+782,03-08-2022,A Sudha,"HTML,CSS,Javascript web publishing",1
+783,03-08-2022,B Sudha,"HTML5,CSS3,Javascript php-blackwood",1
+784,03-08-2022,B Sudha,"HTML,CSS,Javascript web publishing",1
+785,03-08-2022,C Sudha,"The full stack developer,Chris Northwood",1
+786,03-08-2022,C Sudha,"The full stack developer,Chris Northwood",1
+787,03-08-2022,D Sudha,"HTML5,CSS3,Javascript php-blackwood",1
+788,03-08-2022,D Sudha,"HTML,CSS,Javascript web publishing",1
+789,03-08-2022,E Sudha,"HTML,CSS,Javascript web publishing",1
+790,03-08-2022,E Sudha,"HTML5,CSS3,Javascript php-blackwood",1
+791,03-08-2022,G Sudha,"HTML,CSS,Javascript web publishing",1
+792,03-08-2022,G Sudha,"HTML5,CSS3,Javascript php-blackwood",1
+793,03-08-2022,K Sudha,"HTML,CSS,Javascript web publishing",1
+794,03-08-2022,G Sudha,"HTML5,CSS3,Javascript php-blackwood",1
+795,03-08-2022,K Sudha,"HTML,CSS,Javascript web publishing",1
+796,03-08-2022,K Sudha,"HTML5,CSS3,Javascript php-blackwood",1
+797,03-08-2022,L Sudha,"HTML,CSS,Javascript web publishing",1
+798,03-08-2022,L Sudha,"HTML5,CSS3,Javascript php-blackwood",1
+799,03-08-2022,M Sudha,"HTML,CSS,Javascript web publishing",1
+800,03-08-2022,M Sudha,"HTML5,CSS3,Javascript php-blackwood",1
+801,03-08-2022,N Sudha,"HTML,CSS,Javascript web publishing",1
+802,03-08-2022,N Sudha,"HTML5,CSS3,Javascript php-blackwood",1
+803,03-08-2022,P Sudha,"HTML,CSS,Javascript web publishing",1
+804,03-08-2022,P Sudha,"HTML5,CSS3,Javascript php-blackwood",1
+805,03-08-2022,R Sudha,"HTML,CSS,Javascript web publishing",1
+806,03-08-2022,R Sudha,"HTML5,CSS3,Javascript php-blackwood",1
+807,03-08-2022,I Sudha,"HTML,CSS,Javascript web publishing",1
+808,03-08-2022,I Sudha,"HTML5,CSS3,Javascript php-blackwood",1
+809,03-08-2022,U Sudha,"HTML,CSS,Javascript web publishing",1
+810,03-08-2022,V Sudha,"HTML,CSS,Javascript web publishing",1
+811,03-08-2022,V Sudha,"HTML5,CSS3,Javascript php-blackwood",1
+812,03-08-2022,S Sudha,"HTML,CSS,Javascript web publishing",1
+813,03-08-2022,S Sudha,"HTML5,CSS3,Javascript php-blackwood",1
+814,03-08-2022,A Shankar,"The full stack developer,Chris Northwood",1
+815,03-08-2022,A Shankar,Angular for beginners,1
+816,03-08-2022,B Shankar,Reactjs for beginners ,1
+817,03-08-2022,B Shankar,"The frame work for web-development,angular",1
+818,03-08-2022,C Shankar,live web server with Reactjs and firebase,1
+819,03-08-2022,C Shankar,Angular for beginners,1
+820,03-08-2022,D Shankar,live web server with Reactjs and firebase,1
+821,03-08-2022,D Shankar,"The frame work for web-development,angular",1
+822,03-08-2022,E Shankar,"UX,UI design for beginners",1
+823,03-08-2022,E Shankar,App development using Java &XML,1
+824,03-08-2022,G Shankar,App development using Java &XML,1
+825,03-08-2022,G Shankar,"UX,UI design for beginners",1
+826,03-08-2022,K Shankar,"UX,UI design for beginners",1
+827,03-08-2022,K Shankar,App development using Java &XML,1
+828,03-08-2022,U Shankar,App development using Java &XML,1
+829,03-08-2022,U Shankar,"UX,UI design for beginners",1
+830,03-08-2022,V Shankar,"UX,UI design for beginners",1
+831,03-08-2022,A Ganesh,"UX,UI design for beginners",1
+832,03-08-2022,A Ganesh,App development using Java &XML,1
+833,03-08-2022,B Ganesh,"UX,UI design for beginners",1
+834,03-08-2022,B Ganesh,App development using Java &XML,1
+835,03-08-2022,C Ganesh,"UX,UI design for beginners",1
+836,03-08-2022,C Ganesh,App development using Java &XML,1
+837,03-08-2022,V Ganesh,App development using Java &XML,1
+838,03-08-2022,V Ganesh,"UX,UI design for beginners",1
+839,03-08-2022,U Ganesh,"UX,UI design for beginners",1
+840,03-08-2022,U Ganesh,App development using Java &XML,1
+841,03-08-2022,T Ganesh,App development using Java &XML,1
+842,03-08-2022,T Ganesh,"UX,UI design for beginners",1
+843,03-08-2022,T Ganesh,"UX,UI design for beginners",1
+844,03-08-2022,T Ganesh,App development using Java &XML,1
+845,03-08-2022,M Ganesh,"UX,UI design for beginners",1
+846,03-08-2022,M Ganesh,App development using Java &XML,1
+847,03-08-2022,Y Ganesh,App development using Java &XML,1
+848,03-08-2022,Y Ganesh,App development using Java &XML,1
+849,03-08-2022,K Ganesh,"UX,UI design for beginners",1
+850,03-08-2022,K Ganesh,"UX,UI design for beginners",1
+851,03-08-2022,A Deepa,"UX,UI design for beginners",1
+852,03-08-2022,A Deepa,App development using Java &XML,1
+853,03-08-2022,A Deepa,App development using Java &XML,1
+854,03-08-2022,B Deepa,"UX,UI design for beginners",1
+855,03-08-2022,B Deepa,App development using Java &XML,1
+856,03-08-2022,C Deepa,"UX,UI design for beginners",1
+857,03-08-2022,C Deepa,App development using Java &XML,1
+858,03-08-2022,D Deepa,"UX,UI design for beginners",1
+859,03-08-2022,D Deepa,App development using Java &XML,1
+860,03-08-2022,E Deepa,"UX,UI design for beginners",1
+861,03-08-2022,E Deepa,App development using Java &XML,1
+862,03-08-2022,G Deepa,"UX,UI design for beginners",1
+863,03-08-2022,G Deepa,App development using Java &XML,1
+864,03-08-2022,H Deepa,"UX,UI design for beginners",1
+865,03-08-2022,H Deepa,App development using Java &XML,1
+866,03-08-2022,K Deepa,"UX,UI design for beginners",1
+867,03-08-2022,K Deepa,App development using Java &XML,1
+868,03-08-2022,L Deepa,"UX,UI design for beginners",1
+869,03-08-2022,L Deepa,App development using Java &XML,1
+870,03-08-2022,M Deepa,"UX,UI design for beginners",1
+871,03-08-2022,M Deepa,App development using Java &XML,1
+872,03-08-2022,N Deepa,"UX,UI design for beginners",1
+873,03-08-2022,N Deepa,App development using Java &XML,1
+874,03-08-2022,O Deepa,"UX,UI design for beginners",1
+875,03-08-2022,O Deepa,App development using Java &XML,1
+876,03-08-2022,N Deepa,"UX,UI design for beginners",1
+877,03-08-2022,P Deepa,"UX,UI design for beginners",1
+878,03-08-2022,P Deepa,App development using Java &XML,1
+879,03-08-2022,M Deepa,"UX,UI design for beginners",1
+880,03-08-2022,M Deepa,App development using Java &XML,1
+881,03-08-2022,R Deepa,"UX,UI design for beginners",1
+882,03-08-2022,R Deepa,App development using Java &XML,1
+883,03-08-2022,S Deepa,"UX,UI design for beginners",1
+884,03-08-2022,S Deepa,App development using Java &XML,1
+885,03-08-2022,T Deepa,"UX,UI design for beginners",1
+886,03-08-2022,T Deepa,App development using Java &XML,1
+887,03-08-2022,U Deepa,"UX,UI design for beginners",1
+888,03-08-2022,U Deepa,App development using Java &XML,1
+889,03-08-2022,V Deepa,"UX,UI design for beginners",1
+890,03-08-2022,V Deepa,App development using Java &XML,1
+891,03-08-2022,Y Deepa,"UX,UI design for beginners",1
+892,03-08-2022,Y Deepa,App development using Java &XML,1
+893,03-08-2022,A Deepthi,"UX,UI design for beginners",1
+894,03-08-2022,A Deepthi,"UX,UI design for beginners",1
+895,03-08-2022,A Deepthi,App development using Java &XML,1
+896,03-08-2022,B Deepthi,"UX,UI design for beginners",1
+897,03-08-2022,B Deepthi,App development using Java &XML,1
+898,03-08-2022,C Deepthi,"UX,UI design for beginners",1
+899,03-08-2022,C Deepthi,App development using Java &XML,1
+900,03-08-2022,D Deepthi,"UX,UI design for beginners",1
+901,03-08-2022,E Deepthi,"UX,UI design for beginners",1
+902,03-08-2022,E Deepthi,App development using Java &XML,1
+903,03-08-2022,D Deepthi,App development using Java &XML,1
+904,03-08-2022,G Deepthi,"UX,UI design for beginners",1
+905,03-08-2022,G Deepthi,App development using Java &XML,1
+906,03-08-2022,H Deepthi,"UX,UI design for beginners",1
+907,03-08-2022,H Deepthi,App development using Java &XML,1
+908,03-08-2022,I Deepthi,"UX,UI design for beginners",1
+909,03-08-2022,I Deepthi,App development using Java &XML,1
+910,03-08-2022,A Saiteja,Machine learning with python,1
+911,03-08-2022,A Saiteja,Python Crash course by Eric Matthes,1
+912,03-08-2022,B Saiteja,Python Crash course by Eric Matthes,1
+913,03-08-2022,B Saiteja,Machine learning for beginners,1
+914,03-08-2022,C Saiteja,"Head-First Python,2nd edition",1
+915,03-08-2022,C Saiteja,Mastering machine learning algorithm,1
+916,03-08-2022,D Saiteja,Python Crash course by Eric Matthes,1
+917,03-08-2022,D Saiteja,Machine learning with python,1
+918,03-08-2022,E Saiteja,"Head-First Python,2nd edition",1
+919,03-08-2022,E Saiteja,Machine learning with python,1
+920,03-08-2022,G Saiteja,"Head-First Python,2nd edition",1
+921,03-08-2022,G Saiteja,Machine learning with python,1
+922,03-08-2022,H Saiteja,"Head-First Python,2nd edition",1
+923,03-08-2022,H Saiteja,Machine learning with python,1
+924,03-08-2022,I Saiteja,Python Crash course by Eric Matthes,1
+925,03-08-2022,I Saiteja,Machine learning with python,1
+926,03-08-2022,J Saiteja,Python Crash course by Eric Matthes,1
+927,03-08-2022,J Saiteja,Machine learning with python,1
+928,03-08-2022,K Saiteja,"Head-First Python,2nd edition",1
+929,03-08-2022,K Saiteja,Machine learning with python,1
+930,03-08-2022,L Saiteja,"Head-First Python,2nd edition",1
+931,03-08-2022,L Saiteja,Machine learning for beginners,1
+932,03-08-2022,M Saiteja,"Head-First Python,2nd edition",1
+933,03-08-2022,M Saiteja,Machine learning with python,1
+934,03-08-2022,N Saiteja,python programming:using problem solving approach,1
+935,03-08-2022,N Saiteja,Machine learning with python,1
+936,03-08-2022,O Saiteja,Python Crash course by Eric Matthes,1
+937,03-08-2022,O Saiteja,Machine learning with python,1
+938,03-08-2022,P Saiteja,"Head-First Python,2nd edition",1
+939,03-08-2022,P Saiteja,Machine learning with python,1
+940,03-08-2022,R Saiteja,"Head-First Python,2nd edition",1
+941,03-08-2022,R Saiteja,Machine learning with python,1
+942,03-08-2022,S Saiteja,"Head-First Python,2nd edition",1
+943,03-08-2022,S Saiteja,Machine learning with python,1
+944,03-08-2022,T Saiteja,"Head-First Python,2nd edition",1
+945,03-08-2022,T Saiteja,Machine learning with python,1
+946,03-08-2022,U Saiteja,Python Crash course by Eric Matthes,1
+947,03-08-2022,U Saiteja,Machine learning with python,1
+948,03-08-2022,V Saiteja,"Head-First Python,2nd edition",1
+949,03-08-2022,V Saiteja,Machine learning with python,1
+950,03-08-2022,Y Saiteja,Python Crash course by Eric Matthes,1
+951,03-08-2022,Y Saiteja,Data science with python,1
+952,03-08-2022,A Deepak,Python Crash course by Eric Matthes,1
+953,03-08-2022,A Deepak,Data science with python,1
+954,03-08-2022,B Deepak,Data science with python,1
+955,03-08-2022,B Deepak,Python Crash course by Eric Matthes,1
+956,03-08-2022,B Deepak,Data science with python,1
+957,03-08-2022,C Deepak,"Head-First Python,2nd edition",1
+958,03-08-2022,C Deepak,Data science with python,1
+959,03-08-2022,D Deepak,"Head-First Python,2nd edition",1
+960,03-08-2022,D Deepak,Data science with python,1
+961,03-08-2022,E Deepak,"Head-First Python,2nd edition",1
+962,03-08-2022,E Deepak,Data science with python,1
+963,03-08-2022,G Deepak,Python Crash course by Eric Matthes,1
+964,03-08-2022,G Deepak,Data science with python,1
+965,03-08-2022,H Deepak,"Head-First Python,2nd edition",1
+966,03-08-2022,H Deepak,Data science with python,1
+967,03-08-2022,I Deepak,"Head-First Python,2nd edition",1
+968,03-08-2022,I Deepak,Data science with python,1
+969,03-08-2022,J Deepak,Data science with python,1
+970,03-08-2022,K Deepak,"Head-First Python,2nd edition",1
+971,03-08-2022,K Deepak,Data science with python,1
+972,03-08-2022,L Deepak,Python Crash course by Eric Matthes,1
+973,03-08-2022,L Deepak,Data science from scratch,1
+974,03-08-2022,M Deepak,"Head-First Python,2nd edition",1
+975,03-08-2022,M Deepak,Data science with python,1
+976,03-08-2022,N Deepak,"Head-First Python,2nd edition",1
+977,03-08-2022,N Deepak,Data science with python,1
+978,03-08-2022,O Deepak,"Head-First Python,2nd edition",1
+979,03-08-2022,O Deepak,Data science with python,1
+980,03-08-2022,P Deepak,Python Crash course by Eric Matthes,1
+981,03-08-2022,P Deepak,Data science with python,1
+982,03-08-2022,R Deepak,"Head-First Python,2nd edition",1
+983,03-08-2022,R Deepak,Data science with python,1
+984,03-08-2022,S Deepak,"Head-First Python,2nd edition",1
+985,03-08-2022,S Deepak,Data science with python,1
+986,03-08-2022,T Deepak,Python Crash course by Eric Matthes,1
+987,03-08-2022,T Deepak,Data science with python,1
+988,03-08-2022,U Deepak,Python Crash course by Eric Matthes,1
+989,03-08-2022,U Deepak,Data science from scratch,1
+990,03-08-2022,V Deepak,Python Crash course by Eric Matthes,1
+991,03-08-2022,V Deepak,Data science with python,1
+992,03-08-2022,A Pradeep,"Head-First Python,2nd edition",1
+993,03-08-2022,A Pradeep,Data science with python,1
+994,03-08-2022,B Pradeep,Python Crash course by Eric Matthes,1
+995,03-08-2022,B Pradeep,Machine learning with python,1
+996,03-08-2022,B Pradeep,Data science with python,1
+997,03-08-2022,C Pradeep,Python Crash course by Eric Matthes,1
+998,03-08-2022,C Pradeep,Machine learning with python,1
+999,03-08-2022,C Pradeep,Data science with python,1
+1000,03-08-2022,D Pradeep,"Head-First Python,2nd edition",1
+1001,03-08-2022,D Pradeep,Data science with python,1
+1002,03-08-2022,D Pradeep,Machine learning with python,1
+1003,03-08-2022,E Pradeep,"Head-First Python,2nd edition",1
+1004,03-08-2022,E Pradeep,Machine learning with python,1
+1005,03-08-2022,E Pradeep,Data science with python,1
+1006,03-08-2022,E Pradeep,Python Crash course by Eric Matthes,1
+1007,03-08-2022,E Pradeep,Data science with python,1
+1008,03-08-2022,E Pradeep,Machine learning with python,1
+1009,03-08-2022,G Pradeep,Machine learning for beginners,1
+1010,03-08-2022,G Pradeep,Machine learning with python,1
+1011,03-08-2022,G Pradeep,Data science from scratch,1
+1012,03-08-2022,G Pradeep,Data science with python,1
+1013,03-08-2022,J Pradeep,Data science for dummies,1
+1014,03-08-2022,J Pradeep,The Data science handbook-Field cady,1
+1015,03-08-2022,J Pradeep,Machine learning for beginners,1
+1016,03-08-2022,J Pradeep,Machine learning with python,1
+1017,03-08-2022,K Pradeep,Data science from scratch,1
+1018,03-08-2022,K Pradeep,Machine learning with python,1
+1019,03-08-2022,K Pradeep,Machine learning for beginners,1
+1020,03-08-2022,M Pradeep,Machine learning for beginners,1
+1021,03-08-2022,M Pradeep,Machine learning with python,1
+1022,03-08-2022,M Pradeep,Data science from scratch,1
+1023,03-08-2022,M Pradeep,Data science for dummies,1
+1024,03-08-2022,M Pradeep,Data science from scratch,1
+1025,03-08-2022,N Pradeep,Data science for dummies,1
+1026,03-08-2022,N Pradeep,Data science for dummies,1
+1027,03-08-2022,N Pradeep,Data science with python,1
+1028,03-08-2022,P Pradeep,Machine learning and deep learning,1
+1029,03-08-2022,P Pradeep,Mastering machine learning algorithm,1
+1030,03-08-2022,P Pradeep,Hands on Machine Learning with scikit-learn,1
+1031,03-08-2022,P Pradeep,Practical statistics for data scientist,1
+1032,03-08-2022,P Pradeep,Machine learning with python,1
+1033,03-08-2022,R Pradeep,Machine learning and deep learning,1
+1034,03-08-2022,R Pradeep,Machine learning for beginners,1
+1035,03-08-2022,R Pradeep,Machine learning with python,1
+1036,03-08-2022,S Pradeep,Machine learning and deep learning,1
+1037,03-08-2022,S Pradeep,Machine learning with python,1
+1038,03-08-2022,S Pradeep,Machine learning for beginners,1
+1039,03-08-2022,T Pradeep,Machine learning and deep learning,1
+1040,03-08-2022,T Pradeep,Machine learning with python,1
+1041,03-08-2022,T Pradeep,Machine learning for beginners,1
+1042,03-08-2022,U Pradeep,Machine learning and deep learning,1
+1043,03-08-2022,U Pradeep,Machine learning for beginners,1
+1044,03-08-2022,U Pradeep,Hands on Machine Learning with scikit-learn,1
+1045,03-08-2022,V Pradeep,The Data science handbook-Field cady,1
+1046,03-08-2022,V Pradeep,Practical statistics for data scientist,1
+1047,03-08-2022,V Pradeep,Data science for dummies,1
+1048,03-08-2022,Y Pradeep,Practical statistics for data scientist,1
+1049,03-08-2022,Y Pradeep,The Data science handbook-Field cady,1
+1050,03-08-2022,Y Pradeep,Data science with python,1
+1051,03-08-2022,A Mahathi,Mastering machine learning algorithm,1
+1052,03-08-2022,A Mahathi,Hands on Machine Learning with scikit-learn,1
+1053,03-08-2022,A Mahathi,Machine learning and deep learning,1
+1054,03-08-2022,A Mahathi,Machine learning with python,1
+1055,03-08-2022,A Mahathi,Machine learning for beginners,1
+1056,03-08-2022,Y Pradeep,Data science from scratch,2
+1057,03-08-2022,Y Pradeep,Data science for dummies,1
+1058,03-08-2022,Y Pradeep,The Data science handbook-Field cady,1
